@@ -1,5 +1,5 @@
 # Kuroba
-![anime](https://banobagi.vn/wp-content/uploads/2025/05/hinh-anh-anime-nu-cute-11.jpg)
+![anime](https://raw.githubusercontent.com/kurobassj/ImgKuroba/refs/heads/datafor/hinh-anh-anime-nu-cute-11.jpg)
 is a group that helps you find safe open source applications
 
 ## How to install
