@@ -1,5 +1,5 @@
 # Kuroba
-![anime](https://raw.githubusercontent.com/kurobassj/ImgKuroba/refs/heads/datafor/hinh-anh-anime-nu-cute-11.jpg)
+![nakano miku](https://raw.githubusercontent.com/kurobassj/ImgKuroba/refs/heads/datafor/98acccda21a1b1c5d555976a526218ab.jpg)
 is a group that helps you find safe open source applications
 
 ## How to install
